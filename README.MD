@@ -3,3 +3,5 @@
 * When working with the MVC architecture - Controllers are based on the FUNCTIONALITIES and not based on the page (as MVVM architecture would be). So sometimes your view may have more than 1 Controller depending on the functionality of that view.
 
 ![OBX vs GetBuilder](https://github.com/leedagr8/GetX-Tutorial/blob/master/Screen%20Shot%202021-01-26%20at%2012.08.33%20AM.png)
+
+~ Key notes when working with Get Builder you don't have to use the keyword **.obs**
